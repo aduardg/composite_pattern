@@ -1,0 +1,15 @@
+C:\projects\С#\ItemMinecraft\ItemMinecraft\bin\Debug\net6.0\ItemMinecraft.exe
+C:\projects\С#\ItemMinecraft\ItemMinecraft\bin\Debug\net6.0\ItemMinecraft.deps.json
+C:\projects\С#\ItemMinecraft\ItemMinecraft\bin\Debug\net6.0\ItemMinecraft.runtimeconfig.json
+C:\projects\С#\ItemMinecraft\ItemMinecraft\bin\Debug\net6.0\ItemMinecraft.dll
+C:\projects\С#\ItemMinecraft\ItemMinecraft\bin\Debug\net6.0\ItemMinecraft.pdb
+C:\projects\С#\ItemMinecraft\ItemMinecraft\obj\Debug\net6.0\ItemMinecraft.csproj.AssemblyReference.cache
+C:\projects\С#\ItemMinecraft\ItemMinecraft\obj\Debug\net6.0\ItemMinecraft.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\С#\ItemMinecraft\ItemMinecraft\obj\Debug\net6.0\ItemMinecraft.AssemblyInfoInputs.cache
+C:\projects\С#\ItemMinecraft\ItemMinecraft\obj\Debug\net6.0\ItemMinecraft.AssemblyInfo.cs
+C:\projects\С#\ItemMinecraft\ItemMinecraft\obj\Debug\net6.0\ItemMinecraft.csproj.CoreCompileInputs.cache
+C:\projects\С#\ItemMinecraft\ItemMinecraft\obj\Debug\net6.0\ItemMinecraft.dll
+C:\projects\С#\ItemMinecraft\ItemMinecraft\obj\Debug\net6.0\refint\ItemMinecraft.dll
+C:\projects\С#\ItemMinecraft\ItemMinecraft\obj\Debug\net6.0\ItemMinecraft.pdb
+C:\projects\С#\ItemMinecraft\ItemMinecraft\obj\Debug\net6.0\ItemMinecraft.genruntimeconfig.cache
+C:\projects\С#\ItemMinecraft\ItemMinecraft\obj\Debug\net6.0\ref\ItemMinecraft.dll
